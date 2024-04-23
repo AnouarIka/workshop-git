@@ -5,3 +5,5 @@ Bob (Backend Engineer): “As someone who deals with sensitive data, security is
 Claire (DevOps Specialist): “Managing deployments used to be a headache. CodeGuardian’s deployment pipelines are a breeze to set up, and the built-in testing ensures smooth releases. It’s like having a DevOps assistant!”
 
 David (Full Stack Developer): “CodeGuardian’s code refactoring suggestions are spot-on. It’s like having a pair of experienced eyes on my code 24/7. My codebase is cleaner, and I’ve become more efficient.”
+
+Eva (Security Analyst): “Security audits are no longer a manual chore. CodeGuardian’s automated scans identify vulnerabilities, and the detailed reports help me prioritize fixes. It’s a must-have for any security-conscious team.”
